@@ -362,13 +362,13 @@ public class MainActivity extends AppCompatActivity {
             if(finalFlag){
                 switch (finalCount){
                     case 0:
-                        makeInput("지금부터는 직접!\n부모를 만들어서",800,false,"",2);
+                        makeInput("지금부터는 직접!\n질문을 만들어서",800,false,"",2);
                         break;
                     case 1:
                         makeInput("본인의 데이터베이스에",800,false,"",2);
                         break;
                     case 2:
-                        makeInput("부모를 추가해주세요",800,false,"",2);
+                        makeInput("관계를 추가해주세요",800,false,"",2);
                         break;
                     default:
                         if(finalCount >= 4){

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lamee</string>
+    <string-array name="texts">
+        <item>안녕하세요</item>
+        <item>\'라미\' 입니다</item>
+        <item>잘 부탁 드립니다</item>
+        <item></item>
+    </string-array>
+    <string-array name="start">
+        <item></item>
+    </string-array>
+</resources>
